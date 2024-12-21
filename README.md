@@ -3,4 +3,4 @@
 
 * Task 1 part 2 file summarizes a research paper that talks about how Artificial Intelligence and Computational Fluid Dynamics are used in Phase Change Materials applications.
 
-* Task 2 file includes the 2D heat equation solution by the finite difference method and a description for the simulation code in  and 
+* Task 2 file includes the 2D heat equation solution by the finite difference method and a description for the simulation code in Heat Equation.ipynb file and insights of the simultion resulted 
